@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smoking Kills</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="repeat_pass">Repeat password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="login_error">Please input an username and a password at least 5 characters long</string>
+    <string name="incorrect_login">Wrong username and password</string>
+    <string name="day1"> Take a break from smoking for 3 hours</string>
+    <string name="day2"> Do not smoke 2 cigarettes in a row </string>
+    <string name="day3"> If you are at a party, smoke only one cig </string>
+    <string name="day4"> Take a break from smoking for 6 hours </string>
+    <string name="day5"> One cig a day keeps the cancer away( smoke only one ) </string>
+    <string name="day6"> Take a break from smoking for 12 hours </string>
+    <string name="day7"> Eat grapes and drink a glass of milk </string>
+    <string name="day8"> Run out of cigarettes? Don t buy another </string>
+    <string name="day9"> Take a break from smoking for 1 day</string>
+    <string name="day10"> Do not eat so much meat nor drink coffee</string>
+    <string name="day11"> Take a day off and do what relaxes you the most</string>
+    <string name="day12"> Take a break from smoking for another day</string>
+    <string name="day13"> Do not smoke today. Think of your heart</string>
+    <string name="day14"> You can smoke only one cig today</string>
+    <string name="day15"> Good job! Now do not smoke for 2 days in a row :)</string>
+    <string name="challenge">Achievements</string>
+
+</resources>
